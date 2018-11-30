@@ -1,0 +1,33 @@
+{
+  "name": "webmaster-exam",
+  "version": "1.0.0",
+  "description": "Exemplo de código em React com TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cezinha/webmaster-exam.git"
+  },
+  "author": "Celina Uemura <celina.uemura@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cezinha/webmaster-exam/issues"
+  },
+  "homepage": "https://github.com/cezinha/webmaster-exam#readme",
+  "dependencies": {
+    "@types/react": "^16.7.10",
+    "@types/react-dom": "^16.0.11",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.2.1",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}

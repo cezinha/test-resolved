@@ -1,0 +1,65 @@
+{
+    "feed": [
+        {
+            "type": "news",
+            "reference-date": 20181031135904,
+            "title": "Quem era o casal de blogueiros que teria morrido ao tirar selfie em penhasco nos EUA",
+            "thumb": "https://imguol.com/c/noticias/96/2018/10/31/casal-de-indianos-que-pode-ter-morrido-tirando-selfie-1541004939355_80x80.jpg",
+            "url": "https://tecnologia.uol.com.br/noticias/bbc/2018/10/31/quem-era-o-casal-de-blogueiros-que-teria-morrido-ao-tirar-selfie-em-penhasco-nos-eua.htm"
+        },
+        {
+            "type": "news",
+            "reference-date": 20181031134700,
+            "title": "Cientistas acham vírus da zika em macacos",
+            "url": "https://noticias.uol.com.br/saude/ultimas-noticias/estado/2018/10/31/cientistas-acham-virus-da-zika-em-macacos.htm"
+        },
+        {
+            "type": "news",
+            "reference-date": 20181031133420,
+            "title": "Brasil não precisa do Escola sem Partido, defende ministro da Educação",
+            "thumb": "https://imguol.com/c/noticias/33/2018/08/06/9mai2018---rossieli-soares-da-silva-ministro-de-estado-da-educacao-participa-de-reuniao-na-comissao-de-educacao-da-camara-1533578256375_80x80.jpg",
+            "url": "https://educacao.uol.com.br/noticias/2018/10/31/brasil-nao-precisa-do-escola-sem-partido-defende-ministro-da-educacao.htm"
+        },
+        {
+            "type": "news",
+            "reference-date": 20181031133400,
+            "title": "Pedido de vista adia votação do projeto que altera marco legal das teles",
+            "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2018/10/31/pedido-de-vista-adia-votacao-do-projeto-que-altera-marco-legal-das-teles.htm"
+        },
+        {
+            "type": "news",
+            "reference-date": 20181031132800,
+            "title": "China faz alerta a Bolsonaro e diz que 'custo' pode ser grande ao Brasil",
+            "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2018/10/31/china-faz-alerta-a-bolsonaro-e-diz-que-custo-pode-ser-grande-ao-brasil.htm"
+        },
+        {
+            "type": "news",
+            "reference-date": 20181031132200,
+            "title": "Brexit impulsiona pedidos de cidadania irlandesa no R. Unido",
+            "url": "https://noticias.uol.com.br/ultimas-noticias/ansa/2018/10/31/brexit-impulsiona-pedidos-de-cidadania-irlandesa-no-r-unido.htm"
+        },
+        {
+            "type": "blog",
+            "reference-date": 20181031110057,
+            "title": "Crítica: \"Tick, Tick... Boom!\" é um musical delicado e altamente comovente",
+            "url": "https://blogdoarcanjo.blogosfera.uol.com.br/2018/10/31/critica-tick-tick-boom-e-um-musical-delicado-e-altamente-comovente/",
+            "blogger-name": "Blog do Arcanjo",
+            "blogger-icon": "https://conteudo.imguol.com.br/c/_layout/v2/blog-header/thumb-blog-do-arcanjo.png",
+        },
+        {
+            "type": "news",
+            "reference-date": 20181031103732,
+            "title": "Ozzy cutuca ex-companheiro do Black Sabbath: \"pedia pra me calar nos solos\"",
+            "thumb": "https://imguol.com/c/entretenimento/2013/10/13/13out2013--com-apoteose-lotada-black-sabbath-se-apresenta-no-rio-1381709364972_v2_80x80.jpg",
+            "url": "https://entretenimento.uol.com.br/noticias/redacao/2018/10/31/ozzy-cutuca-ex-companheiro-do-black-sabbath-pedia-pra-me-calar-nos-solos.htm"
+        },
+        {
+            "type": "blog",
+            "reference-date": 20181031102925,
+            "title": "Ziraldo é a grande estrela de duas exposições em São Paulo",
+            "url": "https://paginacinco.blogosfera.uol.com.br/2018/10/31/ziraldo-e-a-grande-estrela-de-duas-exposicoes-em-sao-paulo/",
+            "blogger-name": "Página Cinco",
+            "blogger-icon": "https://imguol.com/c/entretenimento/2015/03/19/o-jornalista-rodrigo-casarin-autor-do-blog-pagina-cinco-no-uol-1426788985117_300x300.jpg",
+        }
+    ]
+}

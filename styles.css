@@ -1,0 +1,80 @@
+body {
+    font-family: Roboto, sans-serif;
+    background: #aaa;
+    margin: 0;
+}
+section {
+    margin: 0 auto;
+    width: 360px;
+    background: #fff;
+}
+section header {
+    border-bottom: 1px solid #ddd;
+}
+section header h1 {
+    color: #09a2de;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin: 0;
+}
+section article {
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+    padding: 15px;
+}
+section article h1,
+section article h1 a {
+    color: #333;
+    font-size: 16px;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0 0 5px;
+}
+section article img {
+    float: left;
+    margin-right: 10px;
+}
+section article p.name {
+    color: #666;
+    font-size: 14px;
+    margin: 0 0 5px;
+}
+section article p.time {
+    color: #999;
+    font-size: 12px;
+    margin: 0;
+}
+section article.blog figure {
+    border-radius: 45px;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    background-position: center center;
+    border: 1px solid #ccc;
+    background-size: cover;
+    margin: 0 15px 0 0;
+    float: left;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio : 2) {
+    section {
+        width: 100%;
+    }
+    section header h1 {
+        padding: 20px 30px;
+    }
+    section article {
+        padding: 30px;
+    }
+    section article img {
+        width: 200px;
+        height: 200px;
+        margin-right: 30px;
+    }
+    section article.blog figure {
+        border-radius: 110px;
+        width: 220px;
+        height: 220px;
+        margin-right: 30px;
+    }
+}
