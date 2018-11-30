@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cezinha/webmaster-exam.git"
+    "url": "git+https://github.com/cezinha/test-resolved.git"
   },
   "author": "Celina Uemura <celina.uemura@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cezinha/webmaster-exam/issues"
+    "url": "https://github.com/cezinha/test-resolved/issues"
   },
-  "homepage": "https://github.com/cezinha/webmaster-exam#readme",
+  "homepage": "https://github.com/cezinha/test-resolved#readme",
   "dependencies": {
     "@types/react": "^16.7.10",
     "@types/react-dom": "^16.0.11",
