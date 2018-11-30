@@ -28,5 +28,5 @@ npm run start:dev
 
 Acessar no browser: http://localhost:9000/
 
-##### Versão com React, TypeScript e Webpack gerada por Celina Uemura <cezinha@cezinha.com.br>
-##### Rodando sem TypeScript e Webpack em https://codesandbox.io/s/2p8w3m4kn0
+* Versão com React, TypeScript e Webpack gerada por Celina Uemura <cezinha@cezinha.com.br>
+* Rodando sem TypeScript e Webpack em https://codesandbox.io/s/2p8w3m4kn0
